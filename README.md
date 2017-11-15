@@ -1,39 +1,39 @@
 # learn
 ## Lista
-  1.- Lineal
-  2.- Circular
-  3.- Doble
-  4.- Pilas y Colas
+  - Lineal
+  - Circular
+  - Doble
+  - Pilas y Colas
 
 ## Árboles
-  1.- Binario
-  2.- N-rio
-  3.- Balanceado
+  - Binario
+  - N-rio
+  - Balanceado
 
 Para todos: inserción, borrado, búsqueda y actualización
 
 ## Gráfos
-  1.- Busqueda en Grafos
+  - Busqueda en Grafos
     - Profundidad
     - Amplitud
     - A*
-  2.- Dijkstra
+  - Dijkstra
   
 ## Tablas hash
 
 ## Lista vs. Arreglo
 
 ## Búsqueda
-  1.- Árboles
-  2.- Heap
-  3.- binario
-  4.- Lineal
+  - Árboles
+  - Heap
+  - binario
+  - Lineal
   
 ## Ordenamiento
-  1.- Bubble sort
-  2.- merge sort
-  3.- Árbol
-  4.- Quick sort
-  5.- Bucket sort
+  - Bubble sort
+  - merge sort
+  - Árbol
+  - Quick sort
+  - Bucket sort
 
 ## Memoria dinámica (memorization)
