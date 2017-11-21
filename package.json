@@ -1,0 +1,29 @@
+{
+  "name": "learn",
+  "version": "0.0.0",
+  "description": "Project for learn data structure and logic",
+  "main": "index.html",
+  "dependencies": {
+    "jasmine-core": "^2.8.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jasmine": "^1.1.0"
+  },
+  "scripts": {
+    "test": "grunt jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enrique199413/learn.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "Enrique López Callejas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Enrique199413/learn/issues"
+  },
+  "homepage": "https://github.com/Enrique199413/learn#readme"
+}
