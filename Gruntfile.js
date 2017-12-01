@@ -3,10 +3,12 @@ module.exports = function(grunt) {
   grunt.initConfig({
     jasmine: {
       src: [
-        'list/*.js'
+        'firstDuplicate/*.source.js'
       ],
       options: {
-        specs: ['list-test/*.test.js']
+        specs: [
+          'firstDuplicate/*.spec.js'
+        ]
       }
     }
   });
